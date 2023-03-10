@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_traffic_light_behav/xsimk.exe -simmode gui -wdb tb_traffic_light_behav.wdb -simrunnum 0 -socket 57440
+Design successfully loaded
+Design Loading Memory Usage: 7504 KB (Peak: 7504 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 8128 KB (Peak: 8128 KB)
+Simulation CPU Usage: 78 ms
